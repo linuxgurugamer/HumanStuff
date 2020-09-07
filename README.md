@@ -45,17 +45,19 @@ ________________________________________________________________________________
 
 - Mercury Programme Navy Mark IV (EIVA Suit, as IVA and EVA), with A. Shepard name badge, Mercury Programme Mission Patch and USA Flag 
 
+- Vostok Programme SK-1 EIVA Suit (IVA as IVA and EVA) by @Chubby_Hampster
+
+- Apollo Programme A7L EVA suits (With generation appropriate IVA suit to be added, NO IVA ADDED YET) by @Chubby_Hampster
+
 - Next sets: 
 
 - F-86 Sabre & MiG-15 pressurized high altitude flight suits (IVA as IVA and EVA)
 
-- SK-1 EIVA Suit (IVA as IVA and EVA)
-
 - G4C & Berkut EVA suits (With generation appropriate IVA suit)
 
-- A1C & Yastreb EVA suits (With generation appropriate IVA suit)
+- Yastreb EVA suits (With generation appropriate IVA suit)
 
-- EMU & Orlan EVA suits (With generation appropriate IVA suit)
+- 1980's+ EMU & Orlan EVA suits (With generation appropriate IVA suit)
 
 - Generation appropriate IVA suits: IVA Sokol's 1st to '80's & G5C to '80's "pumpkin" IVA suits
 
@@ -124,13 +126,15 @@ WhiteGuy3 (White skin with parted black hair)
 
 WhiteGuyBlond (White skin with parted blonde hair and a goatee)
 
+Heads/Faces added "often" I will Limit to 7 males and 7 females, for each skin tone used, or about 56 Heads/Faces "total" (1 day).
+
 NEXT:
 
-- Identical male hair & facial hair options, plus "old hair" for all skin tones currently present.
+- Identical male hair & facial hair options, plus "old hair" for all skin tones currently present. (partly finished, need 1 more Asian/Hispanic with improved facial hair, files present in mod)
 
-- For females faces: 3 faces and hair style options for each skin tone present, attempt 1 "old hair" for each
+- For females faces: 3 faces and hair style options for each skin tone present, attempt 1 "old hair" for each, partly finished, no "old" female heads/faces yet, more faces for Asian & Hispanic females added, files present in mod
 
-- Have each "head/face" have "old" counterpart 
+- Have each "head/face" have "old" counterpart, part finished, files present in mod
 
 ___________________________________________________________________________
 
