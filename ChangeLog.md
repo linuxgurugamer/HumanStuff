@@ -1,8 +1,13 @@
-# Change Log #
+# Change Log # //HumanStuff//
 
+* 1.0.1
+  - EnvMaps folder was "missed" in dds pass. Got it this time.
+  - Added more faces/heads
+  - Added Vostok Programme SK-1 EIVA Suit (IVA as IVA and EVA) by @Chubby_Hampster
+  - Added Apollo Programme A7L EVA suits (With generation appropriate IVA suit to be added, NO IVA ADDED YET) by @Chubby_Hampster
 * 1.0.0
   - Initial non pre-release version tested with Kerbal Space Program v.1.8.1 & TextureReplacer v.4.1.3
-  - For KSP 1.8.1, tested fully (untested un other versions to this date)
+  - For KSP 1.8.1 (untested un other versions to this date)
   - First full release suitable for use by people other than dev.
   - Navy Model IV IEVA suit and all included files suitable for in game use by community
 * 0.9.0
