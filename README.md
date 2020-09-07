@@ -8,7 +8,7 @@ A Kerbal Space Program mod to add more realistic visuals for face/hair features,
 Extract and copy the "gamedata" folder to your KSP install directory (example: "C:\Program Files (x86)\my games\Kerbal Space Program")
 
 
-# Included Suits Default Folder of Texture Replacer
+# Included Suits Default Folder of Texture Replacer (in both Default & Suits folders)
 
 Mercury Programme Navy Mark IV, with A. Shepard name badge, Mercury Programme Mission Patch and USA Flag
 
