@@ -2,6 +2,9 @@
 
 * 1.0.0
   - Initial non pre-release version tested with Kerbal Space Program v.1.8.1 & TextureReplacer v.4.1.3
+  - For KSP 1.8.1, tested fully (untested un other versions to this date)
+  - First full release suitable for use by people other than dev.
+  - Navy Model IV IEVA suit and all included files suitable for in game use by community
 * 0.9.0
   - all textures optimally resized, again, .DDS optimization pass.
   - Initial IVA & EVA suit textures fully replaced, Suit re-shade on "closer" to "American aluminin" than "Tinfoil" colour key.  
