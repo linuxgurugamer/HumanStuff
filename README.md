@@ -1,11 +1,12 @@
-# HumanStuff
+# HumanStuff (Orginal files for Head/Face/Hair Textures credited to "Gregroxmun"), Currently a WORK IN PROGRESS
+
 A Kerbal Space Program mod to add more realistic visuals for face/hair features, recreations of real life equipment &amp; flight suits, IVA, EIVA, IVA space suites. For use Texture Replacer. Licensed under CC BY-SA 4.0 on September 7th 2020 (See LIENSE.md). PLEASE MAKE AND SUBMIT MORE STUFF TO ADD
 
-//// HumanStuff Head/Face/Hair Textures, orginal files listed credited to "Gregroxmun" ////
+# Included Suits Default Folder of Texture Replacer
 
+Mercury Programme Navy Mark IV, with A. Shepard name badge, Mercury Programme Mission Patch and USA Flag
 
-# In Default Folder of exture Replacer (also a copy of each in skins folder)
-
+# Included Head/Face/Hair in Default Folder of Texture Replacer (also a copy of each in skins folder)
 
 White Male Head (default kerbalHead)
 
@@ -21,8 +22,7 @@ White Male White-Blond Hair with Goatee (Walt Kerman and WhiteGuyBlond)
 
 
 
-# Heads/Hair, in skins folder of Texture Replacer
-
+# Included Head/Face/Hair, in skins folder of Texture Replacer
 
 AsianGirl (medium, yellowish skin tone)
 
