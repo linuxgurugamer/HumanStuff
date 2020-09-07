@@ -2,6 +2,12 @@
 
 A Kerbal Space Program mod to add more realistic visuals for face/hair features, recreations of real life equipment &amp; flight suits, IVA, EIVA, IVA space suites. For use Texture Replacer. Licensed under CC BY-SA 4.0 on September 7th 2020 (See LIENSE.md). PLEASE MAKE AND SUBMIT MORE STUFF TO ADD
 
+
+
+# INSTALL NOTE: DO NOT UNZIP/EXTRACT IN KSP FOLDER! 
+Extract and copy the "gamedata" folder to your KSP install directory (example: "C:\Program Files (x86)\my games\Kerbal Space Program")
+
+
 # Included Suits Default Folder of Texture Replacer
 
 Mercury Programme Navy Mark IV, with A. Shepard name badge, Mercury Programme Mission Patch and USA Flag
