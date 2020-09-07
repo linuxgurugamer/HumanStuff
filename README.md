@@ -5,7 +5,7 @@ A Kerbal Space Program mod to add more realistic visuals for face/hair features,
 
 //// >>> PLEASE MAKE AND SUBMIT MORE STUFF TO ADD <<< ////
 
-//// In Default Folder (also a copy of each in skins folder) ////
+//// In Default Folder of exture Replacer (also a copy of each in skins folder) ////
 
 
 White Male Head (default kerbalHead)
@@ -22,7 +22,7 @@ White Male White-Blond Hair with Goatee (Walt Kerman and WhiteGuyBlond)
 
 
 
-//// Heads ////
+//// Heads, in skins folder of Texture Replacer ////
 
 
 AsianGirl (medium, yellowish skin tone)
