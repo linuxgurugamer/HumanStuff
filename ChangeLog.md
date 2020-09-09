@@ -1,5 +1,8 @@
 # Change Log # //HumanStuff//
 
+* 1.0.2
+  - Added "Do it yourself" suit and head templates
+  - Added more faces/heads to least represented skin tones
 * 1.0.1
   - EnvMaps folder was "missed" in dds pass. Got it this time.
   - Added more faces/heads
