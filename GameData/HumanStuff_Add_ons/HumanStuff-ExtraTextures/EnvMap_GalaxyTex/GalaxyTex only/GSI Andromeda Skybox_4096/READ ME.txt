@@ -1,0 +1,34 @@
+ 
+*****  READ ME *****
+
+ ***** Green Skull Inc READ ME FILE - Kraken Space Industries Skybox - *****
+
+ Welcome to the Kraken Space Industries Andromeda Skybox.
+ A lot of hard work has gone into creating many individual and unique textures, 
+ patches, badges and logo's.
+ Please check the Green Skull Inc. pages on the Kerbal Space Programme Forums regularly
+ to keep tabs on:
+ - updates and progress of the latest release version
+ - new projects 
+ as well as hints, tips, bug fixes and Fan Screenshots!
+
+ ***** Installation Instructions *****
+
+ These textures require TextureReplacer.
+ 
+ To install simply place the folder marked TextureReplacer into your Game Data 
+ main folder, merging when required.
+ 
+ The address should be something like like C:\Users\Desktop\KSP_win\GameData\TextureReplacer.
+
+
+ ***** Credits and legal *****
+
+ Original texture design by Space Krakken, modified by Green Skull and distributed under this licence 
+ https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US
+
+ Although they are distributed under a CC licence I expect a courtesy mail
+ on Kerbal Space Programme Forum. Politeness never hurt anyone!
+
+
+
