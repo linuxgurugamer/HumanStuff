@@ -3,13 +3,13 @@ ________________________________________________________________________________
 
 What is This? A Kerbal Space Program mod to add more realistic visuals for:
 
-- Recreations of "Human" face/hair features (All are 1024x1024 16M .dds files)
+- Recreations of "Human" face/hair features (All are 2048x2048 16M .dds files to 4096x4096)
 
 - Recreations of real life equipment, flags, patches & logo's (All flags, patches & logo's are public use and allow redistribution) 
 
-- Recreations flight suits, IVA, EIVA, IVA space suites. (All are 4096x4096 16M .dds files), "standard/base" suit's only currently, not vintage or futuristic
+- Recreations flight suits, IVA, EIVA, IVA space suites. (All are 4096x4096 16M .dds files to 8192x8192), "standard/base" suit's only currently, not vintage or futuristic
 
-- Plus "KSC Staff & Ground Crew" (Small issue with "albino" Gene, but only in Mission Control scene, and same issue with ground crew scientists & "signal lights people"... working on it...) 
+- Plus "KSC Staff & Ground Crew" 
 _____________________________________________________________________________________________________________________________
 
 # For use TextureReplacer. Currently a WORK IN PROGRESS
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 # Included HumanStuff.cfg "settings" for Texture Replacer allowing: 
 
-- Spawning wearing IVA suit without helmet below the Armstrong limit (about 16,000 meters above sea level or 0.62 Atmospheres) in a breathable atmosphere (Trying to see if I can set a temperature range for EVA suit use too?)
+- Resolution of reflections set to 512x512
 
 - The standard 4 Kerbal's to have set "non-random" faces, (for "Jeb", Bill, Bob and "Val")
 
@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 # Included "GalaxyTex" & "EnvMap" files for Texture Replacer (Default & EnvMap folders, respectfully)
 
-- Credit to Oinker "Skybox_2.0_Brighter_4-2.0_brighter" as original, darker version not online currently, I have attempted a "super light touch" darkening
+- Aazards 8K RSS Correct Skybox, and other options
 _________________________________________________________________________________________________________________
 
 # Included Suits for Texture Replacer (in both Default & Suits folders, no ranking, but veteran versions)
