@@ -1,4 +1,8 @@
-﻿//Some mods can't use dds textures yet or this program have problems converting them in the correct format. All mods folders listed below will be skipped during a folder conversion (case-sensitive), or will have forced parameters applied.
+﻿//HumanStuff update to exceptions, 2020-09-11 last edit = icons
+//
+//-------------------------------end of HumanStuff NOTE----------------
+//
+//Some mods can't use dds textures yet or this program have problems converting them in the correct format. All mods folders listed below will be skipped during a folder conversion (case-sensitive), or will have forced parameters applied.
 //You can specify a folder, or a file directly. Folders listed will include their sub-directories
 // if you use any argument, the folder is not skipped and all files in it will be treated accordingly.
 //Available arguments :
