@@ -1,5 +1,9 @@
 # Change Log # //HumanStuff//
 
+* 1.0.3
+  - Added more "Do it yourself" suit and head templates
+  - HUGE CHANGES, TO MANY TO LIST
+  - DELETE any older versions of "HumanStuff" files and test your install. Then re-install HumanStuff from this release
 * 1.0.2
   - Added "Do it yourself" suit and head templates
   - Added more faces/heads to least represented skin tones
