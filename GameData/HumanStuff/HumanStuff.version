@@ -1,0 +1,22 @@
+{
+  "NAME": "HumanStuff",
+  "DOWNLOAD": "https://spacedock.info/mod/2524/HumanStuff",
+  "URL": "https://github.com/aazard/HumanStuff/raw/master/GameData/HumanStuff/HumanStuff.version",
+  "GITHUB": {
+    "USERNAME": "aazard",
+    "REPOSITORY": "HumanStuff"
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 4
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 8
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 10
+  }
+}
