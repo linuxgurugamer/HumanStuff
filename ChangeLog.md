@@ -1,5 +1,12 @@
 # Change Log # //HumanStuff//
-
+* 1.0.4
+ - Using an AVC version file now for CKAN 
+ - Files & Folder names/structure finalized for future updates until further notice
+ - Skybox now 6K BC7 format by default with EnvMaps of 512K, "BigPack" include other resolutions and optional skyboxes
+ - Wiki is now live
+ - Docs and links are being added daily
+ - 1st template uploads will be over the period of 2020-09-18 to 2020-10-01, to master
+ - I will attempt release weekly until v1.1 on Fridays/Saturdays/Sundays, schedule allowing (no promises)
 * 1.0.3
   - Added more "Do it yourself" suit and head templates
   - HUGE CHANGES, TO MANY TO LIST
