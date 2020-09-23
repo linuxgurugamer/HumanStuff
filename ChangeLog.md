@@ -1,21 +1,23 @@
 # Change Log # //HumanStuff//
 
-* 1.0.5.1
+## 1.0.5.1
  - Fixed upload, left extras unzipped in v1.0.5
  - **Added 1st _Famous_ _Face_**
  - **7zip** suggested to unzip **_"INTERNAL"_** folders in **BigPack** 
  - **Irfanview (also Xnview or XnConvert)** suggested to convert **_WebP_** to non-DXT encoded formats 
  - **Official support to RP1 mod min requirments and-or active version (currently its KSP v1.7.3)**
  - **Now With TRI-OS Support (Windows, Mac OS, Linux)**
- - **_Unofficial _support_ to RP1 mod LAST versions for KSP v1.4.5 and KSP v1.3.1 for **BOTH 64bit And 32bit** 
+***
+**Unofficial** _support_ to RP1 mod LAST versions for KSP v1.4.5 and KSP v1.3.1 for **BOTH 64bit And 32bit** 
+***
  ### 32Bit systems: 3Gb ram, DX9C GPU (iGPU is fine), DX9: SM3 512MB VRAM, PIXEL SHADER 3, VERTEX SHADER 3. DX10+: SM4 1GB VRAM, PIXEL SHADER 4, VERTEX SHADER 4
  - **KSP v1.3.1 & v1.4.5**: _Windows_ _2000_* (* **Requires BlackWingCat Extended Kernel AND DirectX 9.0C**)& Windows XP SP3 32Bit with **TextureReplacer v3.2**
  - **Tested on**: AMD Athlon 64 FX-57 CPU, Radeon HD 2600XT 1GB GPU  & 4GB Ram running Windows 2000 with additions listed, all unused textures "PRUNED" (ask me)
 ***
-### Please PM me for versions CGF's for KSP cersions older than 1.7.3 & how to Prune readme (Purning NOT required on 64bit)
+### Please PM me for versions CGF's for KSP older than 1.7.3 & how to Prune readme (Purning NOT required on 64bit)
 ***
-* 1.0.5
- - after release note, never uploaded to spacedock
+### 1.0.5
+ - **after release note**, never uploaded to spacedock
  - Added more templates
  - updated recovered GSI pack
  - addd many more textures
