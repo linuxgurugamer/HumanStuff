@@ -1,5 +1,7 @@
 # Change Log # //HumanStuff//
 
+* 1.0.5.1
+ - Fixed upload, left extras unzipped in v1.0.5
 * 1.0.5
  - Added more templates
  - updated recovered GSI pack
