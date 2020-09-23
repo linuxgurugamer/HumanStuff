@@ -1,4 +1,12 @@
 # Change Log # //HumanStuff//
+
+* 1.0.5
+ - Added more templates
+ - updated recovered GSI pack
+ - All PNG files are now WebP, far better size and quality
+ - addd many more textures
+* 1.0.4
+ - Using an AVC version file now for CKAN, SpaceDock only 
 * 1.0.4
  - Using an AVC version file now for CKAN 
  - Files & Folder names/structure finalized for future updates until further notice
