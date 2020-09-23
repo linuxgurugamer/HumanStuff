@@ -1,6 +1,9 @@
 # Change Log # //HumanStuff//
 
 ## 1.0.5.1
+ - RE-Fixed upload, left extras UNzipped. 
+ - Reason: Need to find better zip compression CKAN accepts
+## 1.0.5.1
  - Fixed upload, left extras unzipped in v1.0.5
  - **Added 1st _Famous_ _Face_**
  - **7zip** suggested to unzip **_"INTERNAL"_** folders in **BigPack** 
