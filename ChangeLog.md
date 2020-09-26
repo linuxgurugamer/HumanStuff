@@ -1,6 +1,10 @@
 # Change Log # //HumanStuff//
 
-## 1.0.5.1
+## 1.0.5.3
+ - Removed KSP pre-v1.5 files to optional DL
+ - creating resolution packs, default is packaged
+ - should be about 50% the size now 
+## 1.0.5.2
  - RE-Fixed upload, left extras UNzipped. 
  - Reason: Need to find better zip compression CKAN accepts
 ## 1.0.5.1
