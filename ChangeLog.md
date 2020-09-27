@@ -4,12 +4,12 @@
  - Finalized default file structure
  - Tested to work with any mod set, same note about RP-0 as before:
  - NOTE: RP-0 screen changer will take priority
- - Note Fix: remane RP-0's "PluginData\Screens" folder
+ - Note Fix: rename RP-0's "PluginData\Screens" folder
 ## 1.0.5.4
  - Removed old DLL, re-wrote as new DDL
  - Screen Changer not functions
  - NOTE: RP-0 screen changer will take priority
- - Note Fix: remane RP-0's "PluginData\Screens" folder
+ - Note Fix: rename RP-0's "PluginData\Screens" folder
 ## 1.0.5.3
  - Removed KSP pre-v1.5 files to optional DL
  - creating resolution packs, default is packaged
