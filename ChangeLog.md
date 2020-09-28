@@ -2,7 +2,7 @@
 
 
 ## 1.1.0.1
-- Fixed small error in structure stopping slpash screen
+- Fixed small error in structure stopping splash screen
 ## 1.1.0.0
  - Finalized default file structure
  - Tested to work with any mod set, same note about RP-0 as before:
