@@ -1,6 +1,7 @@
 # Change Log # //HumanStuff//
 
-
+## 1.1.1
+- Fixed small error in structure stopping splash screen for ckan users also
 ## 1.1.0.1
 - Fixed small error in structure stopping splash screen
 ## 1.1.0.0
