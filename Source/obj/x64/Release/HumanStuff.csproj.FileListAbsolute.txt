@@ -1,0 +1,7 @@
+C:\PRAY it worked\HumanStuff.dll
+C:\Users\PCX-001-R5-3600XT\Documents\GitHub\RP-0\Source\obj\x64\Release\HumanStuff.csprojAssemblyReference.cache
+C:\Users\PCX-001-R5-3600XT\Documents\GitHub\RP-0\Source\obj\x64\Release\HumanStuff.csproj.CoreCompileInputs.cache
+C:\Users\PCX-001-R5-3600XT\Documents\GitHub\RP-0\Source\obj\x64\Release\HumanStuff.dll
+C:\Users\PCX-001-R5-3600XT\Documents\GitHub\RP-0_STOLEN FOR DLL\Source\obj\x64\Release\HumanStuff.csprojAssemblyReference.cache
+C:\Users\PCX-001-R5-3600XT\Documents\GitHub\RP-0_STOLEN FOR DLL\Source\obj\x64\Release\HumanStuff.csproj.CoreCompileInputs.cache
+C:\Users\PCX-001-R5-3600XT\Documents\GitHub\RP-0_STOLEN FOR DLL\Source\obj\x64\Release\HumanStuff.dll
