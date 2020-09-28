@@ -1,5 +1,8 @@
 # Change Log # //HumanStuff//
 
+
+## 1.1.0.1
+- Fixed small error in structure stopping slpash screen
 ## 1.1.0.0
  - Finalized default file structure
  - Tested to work with any mod set, same note about RP-0 as before:
@@ -39,7 +42,7 @@
  - updated recovered GSI pack
  - addd many more textures
  ### All PNG files are now WebP, far better size and quality
-* 1.0.4
+* 1.0.4 note
  - Using an AVC version file now for CKAN, SpaceDock only 
 * 1.0.4
  - Using an AVC version file now for CKAN 
