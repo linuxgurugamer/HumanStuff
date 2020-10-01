@@ -1,0 +1,1 @@
+The mod is already configured, just unzip "LoadingScreenManager" and move the resulting folder to "GameData" like any other mod 
