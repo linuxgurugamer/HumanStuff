@@ -1,10 +1,11 @@
 # Change Log # //HumanStuff//
 
+## 1.2.3
+- Fixed Skybox for users without DX11+ GPU (test system oversight) 
 ## 1.2.2
 - Fixed skybox
 ## 1.2.1
 - Fixed staff and minor items
-
 ## 1.1.1
 - Fixed small error in structure stopping splash screen for ckan users also
 ## 1.1.0.1
