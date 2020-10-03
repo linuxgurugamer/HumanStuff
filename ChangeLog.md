@@ -1,5 +1,7 @@
 # Change Log # //HumanStuff//
 
+## 1.2.4
+- Fix pass to all default textures, kust incase...measure 2x, cut 1x lol 
 ## 1.2.3
 - Fixed Skybox for users without DX11+ GPU (test system oversight) 
 ## 1.2.2
