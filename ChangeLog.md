@@ -1,5 +1,7 @@
 # Change Log # //HumanStuff//
 
+## 1.2.5
+- Fix pass to all flags, all correct DXT5-BC3 now
 ## 1.2.4
 - Fix pass to all default textures, kust incase...measure 2x, cut 1x lol 
 ## 1.2.3
