@@ -1,7 +1,0 @@
-#The "HumanStuff_BigPack" contains all optional addons, tools, textures of all types, archives of the GSI megapack/skyboxes & DDS4KSP with updating of exclusions.
-/
-/
-# The entire "BigPack" SHOULD NOT BE INSIDE THE GAMEDATA FOLDER! It serves as a repository of optionals and teaching tools etc.
-/Pick the components you want for inclusion in the respective Gamadata\TextureReplacer\ folder and use the tools OUTSIDE of the gamedata folder
-/
-# * Please do not use DDS4KSP on anything other than MBM files, AND ALWAYS BACK UP 1ST, & TEST 2ND

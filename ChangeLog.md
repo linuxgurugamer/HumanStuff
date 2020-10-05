@@ -1,5 +1,7 @@
 # Change Log # //HumanStuff//
 
+## 1.3.1
+- BigPack "texture library" removed from main pack. Still working out what to do  
 ## 1.2.5
 - Fix pass to all flags, all correct DXT5-BC3 now
 ## 1.2.4
